@@ -1,7 +1,7 @@
 -- =============================================================================
 --  NexShop Group S.A.  |  schema.sql
 --  Esquema relacional completo (MySQL 8.x / InnoDB / utf8mb4)
---  Autor: Erik Mora
+--  Autor: Samuel Pérez-Herrero Soler
 -- -----------------------------------------------------------------------------
 --  Convenciones:
 --    * Claves primarias surrogadas INT AUTO_INCREMENT salvo tablas puente.

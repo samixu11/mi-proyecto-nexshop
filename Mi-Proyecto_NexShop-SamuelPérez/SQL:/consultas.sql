@@ -5,7 +5,7 @@
 --  Las consultas 1-14 cubren las tecnicas obligatorias del enunciado.
 --  Las 15-19 anaden LEFT JOIN, agregaciones, subconsultas y uso de vista
 --  (criterios de evaluacion B y C).
---  Autor: Erik Mora
+--  Autor: Samuel Pérez-Herrero Soler
 -- =============================================================================
 
 USE nexshop;

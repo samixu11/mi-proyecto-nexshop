@@ -4,7 +4,7 @@
 --  Incluye: NULLs deliberados, estados variados, un pedido con varios envios,
 --  ventas presenciales anonimas y vinculadas, valoraciones verificadas y no,
 --  e historicos de precio / suministro / puntos.
---  Autor: Erik Mora
+--  Autor: Samuel Pérez-Herrero Soler
 -- =============================================================================
 
 USE nexshop;
